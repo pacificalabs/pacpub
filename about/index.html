@@ -40,6 +40,11 @@
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-HG3S1LQSRJ');
+
+    const url = window.location.href;
+    
+    if (url.search(/qr/) >= 0) {window.location.href = "/"};
+
     </script>
     
     
@@ -128,8 +133,8 @@
                 </article>
                 <div class="pagination">
                     
+                    <a href="../qr/">&laquo; </a>
                     
-                    <a href="../kdevo/">KDEVO &raquo;</a>
                     
                 </div>
             </section>

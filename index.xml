@@ -71,24 +71,6 @@
     </item>
     
     <item>
-      <title>Services</title>
-      <link>/services1/</link>
-      <pubDate>Fri, 12 May 2017 22:25:02 -0700</pubDate>
-      
-      <guid>/services1/</guid>
-      <description>Expertise Digital Transformation Software &amp;amp; Web Design Marketing &amp;amp; Social Media Brand &amp;amp; Packaging Design </description>
-    </item>
-    
-    <item>
-      <title>KDEVO</title>
-      <link>/kdevo/</link>
-      <pubDate>Fri, 17 May 2019 22:25:16 -0700</pubDate>
-      
-      <guid>/kdevo/</guid>
-      <description>Author of Osprey Delight.</description>
-    </item>
-    
-    <item>
       <title>Bash Keyboard Shortcuts Every Software Engineer Should Know</title>
       <link>/blog/bash-keyboard-shortcuts/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +1100</pubDate>
@@ -177,6 +159,15 @@ Go Deeper&amp;hellip; Instagram has a great description.</description>
       
       <guid>/about/</guid>
       <description>A Full Service Digital Agency. Made in Australia. Worldwide since 2013. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/qr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/qr/</guid>
+      <description>hello</description>
     </item>
     
   </channel>
